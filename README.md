@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davng99
-- 👀 I’m interested in Front End Development
+- 👀 I want to become a Frontend Developer 
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: davidnguyen030499@gmail.com
